@@ -1,4 +1,4 @@
-const BASE_URL = 'https://29.javascript.pages.academy/code-and-magick';
+const BASE_URL = 'https://25.javascript.htmlacademy.pro/code-and-magick';
 const Route = {
   GET_DATA: '/data',
   SEND_DATA: '/',
